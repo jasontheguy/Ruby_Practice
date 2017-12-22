@@ -1,6 +1,6 @@
 # This is a super goofy recursion function to return what one less
-# is than 
-
+# is than the second function argument. If you implement this in any sort of serious code
+# please get help.
 def recurse_func(a,b)
  puts "#{a},#{b}"
  if a < b
